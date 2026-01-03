@@ -19,7 +19,7 @@ export default function Footer() {
                 <p>© {new Date().getFullYear()} <a href="#">Rishit Theshiya</a>. All rights reserved.</p>
                 <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
                     <li><a target='_blank' href="https://github.com/RishitTheshiya/">GitHub</a></li>
-                    <li><a target='_blank' href="https://www.linkedin.com/in/rishit-theshiya">LinkedIn</a></li>
+                    <li><a target='_blank' href="https://www.linkedin.com/in/rishit-theshiya-232874266/">LinkedIn</a></li>
                     <li><a target='_blank' href="https://x.com/Rishit_theshiya">Twitter</a></li>
                 </ul>
             </div>
